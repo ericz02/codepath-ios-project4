@@ -31,7 +31,6 @@ The following **additional** features are implemented:
 
 <div>
     <a href="https://www.loom.com/share/4dc826a705be41568beb199a8480d27a">
-      <p>Editing codepath-ios-project4/README.md at main · ericz02/codepath-ios-project4 - 13 October 2023 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/4dc826a705be41568beb199a8480d27a">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4dc826a705be41568beb199a8480d27a-with-play.gif">
